@@ -31,6 +31,11 @@
   "name": "App Header Bar",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "605E9813-7CEC-450A-8CEF-E335C688F10E_stringValue",
+      "value": "New Title\n"
+    }
   ],
   "resizingConstraint": 11,
   "resizingType": 0,
